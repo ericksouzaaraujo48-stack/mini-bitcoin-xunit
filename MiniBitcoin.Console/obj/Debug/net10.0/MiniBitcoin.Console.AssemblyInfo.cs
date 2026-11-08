@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniBitcoin.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46f9adce1f7c0d733bede029b10c7a01203c40c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+782ae6511c2ef92ada1973ff86c848fbab40bdd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniBitcoin.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniBitcoin.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
