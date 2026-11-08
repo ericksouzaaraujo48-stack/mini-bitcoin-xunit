@@ -1,0 +1,14 @@
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.exe
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.deps.json
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.runtimeconfig.json
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.dll
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\bin\Debug\net10.0\MiniBitcoin.Console.pdb
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.AssemblyInfoInputs.cache
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.AssemblyInfo.cs
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.csproj.CoreCompileInputs.cache
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.dll
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\refint\MiniBitcoin.Console.dll
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.pdb
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\MiniBitcoin.Console.genruntimeconfig.cache
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Console\obj\Debug\net10.0\ref\MiniBitcoin.Console.dll
