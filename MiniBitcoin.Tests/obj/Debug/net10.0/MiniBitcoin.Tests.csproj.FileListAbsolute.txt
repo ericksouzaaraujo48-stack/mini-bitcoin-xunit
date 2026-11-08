@@ -98,3 +98,6 @@ C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\obj\Debug\net10.0\refint\MiniBitcoi
 C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\obj\Debug\net10.0\MiniBitcoin.Tests.pdb
 C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\obj\Debug\net10.0\MiniBitcoin.Tests.genruntimeconfig.cache
 C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\obj\Debug\net10.0\ref\MiniBitcoin.Tests.dll
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\bin\Debug\net10.0\MiniBitcoin.Console.deps.json
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\bin\Debug\net10.0\MiniBitcoin.Console.runtimeconfig.json
+C:\Users\erick\MiniBitcoin\MiniBitcoin.Tests\bin\Debug\net10.0\MiniBitcoin.Console.exe
