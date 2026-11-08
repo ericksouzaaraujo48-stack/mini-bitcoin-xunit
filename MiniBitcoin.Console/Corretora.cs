@@ -6,6 +6,7 @@ public class Corretora
 
     private readonly Carteira _carteira;
     public decimal CotacaoBrl { get; private set; } // preço de 1 BTC em reais
+    public Extrato Extrato { get; } = new Extrato(); // NOVO na Etapa 3
 
     public Corretora(Carteira carteira, decimal cotacaoBrl)
     {
@@ -25,6 +26,7 @@ public class Corretora
 
         _carteira.SacarBrl(custo); // lança exceção se o saldo em BRL for insuficiente
         _carteira.DepositarSatoshis(satoshis);
+        Extrato.Registrar(TipoOperacao.Compra, satoshis, custo); // NOVO na Etapa 3
     }
 
     public void VenderBitcoin(long satoshis)
@@ -36,6 +38,7 @@ public class Corretora
 
         _carteira.SacarSatoshis(satoshis); // lança exceção se o saldo em BTC for insuficiente
         _carteira.DepositarBrl(valor);
+        Extrato.Registrar(TipoOperacao.Venda, satoshis, valor); // NOVO na Etapa 3
     }
 
     private decimal CalcularValorBrl(long satoshis)
