@@ -33,4 +33,21 @@ public class Carteira
 
         SaldoSatoshis -= valor;
     }
+
+    // NOVOS na Etapa 2: necessários para creditar o resultado de compras e vendas
+    public void DepositarBrl(decimal valor)
+    {
+        if (valor <= 0)
+            throw new ArgumentException("O valor do depósito deve ser maior que zero.");
+
+        SaldoBrl += valor;
+    }
+
+    public void DepositarSatoshis(long valor)
+    {
+        if (valor <= 0)
+            throw new ArgumentException("O valor do depósito deve ser maior que zero.");
+
+        SaldoSatoshis += valor;
+    }
 }
